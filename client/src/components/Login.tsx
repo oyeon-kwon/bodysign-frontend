@@ -67,7 +67,7 @@ const Login: NextPage = () => {
 
 	return (
 		<>
-			<div className="flex flex-col text-[15px] items-center justify-center mx-auto mb-[5rem] p-[3rem] border rounded-[2rem] shadow">
+			<div className="flex flex-col text-[15px] items-center justify-center mx-[2rem] mb-[5rem] p-[3rem] border rounded-[2rem] shadow">
 				<div className="max-w-screen-md">
 					<input
 						className="w-full p-[1.2rem] mt-[0.4rem] border shadow-md h-[4.8rem] rounded-[2rem]"

@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Landing: NextPage = () => {
 	return (
 		<>
-			<div className="flex flex-col m-5 font-thin font-IBM">
+			<div className="flex flex-col font-thin font-IBM m-0 p-0">
 				<div className="section1 bg-[#FED06E] p-5">
 					<div className="font-bold text-[20px]">
 						트레이너들이 기획한 업무관리 서비스
